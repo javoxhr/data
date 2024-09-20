@@ -202,15 +202,15 @@
         "id": 16
     },
     {
-        "user_id": 5816401755,
-        "title": "Smartfon",
-        "description": "Ishlashi zor",
-        "price": 100.0,
+        "user_id": 2055642044,
+        "title": "Skuter",
+        "description": "Skuter kami bor",
+        "price": 300.0,
         "currency": "USD",
-        "category": "Smartfon",
-        "location": "Nicotine",
+        "category": "Skuter",
+        "location": "Samarkand",
         "images": [],
-        "created_at": "2024-09-20T17:43:31.129850",
+        "created_at": "2024-09-20T17:45:35.034603",
         "id": 17
     }
 ]
