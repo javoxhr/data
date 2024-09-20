@@ -126,5 +126,19 @@
         ],
         "created_at": "2024-09-20T14:17:31.251127",
         "id": 10
+    },
+    {
+        "user_id": 6535682768,
+        "title": "x box",
+        "description": "x box в идеале",
+        "price": 200.0,
+        "currency": "USD",
+        "category": "gamming",
+        "location": "ferg",
+        "images": [
+            "AgACAgIAAxkBAAIBCmbthGaeGsZL5uAgnfiuJiI9W2GuAAKF3zEbFKVoS2IB4kve87BwAQADAgADeQADNgQ"
+        ],
+        "created_at": "2024-09-20T14:27:59.318475",
+        "id": 11
     }
 ]
