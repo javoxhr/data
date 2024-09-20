@@ -212,5 +212,17 @@
         "images": [],
         "created_at": "2024-09-20T17:47:46.872807",
         "id": 17
+    },
+    {
+        "user_id": 5816401755,
+        "title": "Samakat",
+        "description": "Samakat sotiladi",
+        "price": 5.0,
+        "currency": "USD",
+        "category": "Samakat",
+        "location": "Andijon",
+        "images": [],
+        "created_at": "2024-09-20T17:49:59.703936",
+        "id": 18
     }
 ]
