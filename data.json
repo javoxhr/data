@@ -1,0 +1,80 @@
+[
+    {
+        "user_id": 6535682768,
+        "title": "hello",
+        "description": "hello world test",
+        "price": 0,
+        "currency": "USD",
+        "category": "",
+        "location": "",
+        "images": [],
+        "created_at": "2024-09-20T12:34:56Z",
+        "id": 2
+    },
+    {
+        "user_id": 6535682768,
+        "title": "java",
+        "description": "javaScript vue.js nuxt.js",
+        "price": 200.0,
+        "currency": "USD",
+        "category": "cat",
+        "location": "fergana",
+        "images": [
+            "AgACAgIAAxkBAAMgZu1VeZLszy7FqAVRAAE3kHsRNqszAALm3DEbUOFoS7NgMdVwf6q2AQADAgADeQADNgQ"
+        ],
+        "created_at": "2024-09-20T10:58:00.185705",
+        "id": 2
+    },
+    {
+        "user_id": 6535682768,
+        "title": "Celia",
+        "description": "Birinchi narsa",
+        "price": 200.0,
+        "currency": "USD",
+        "category": "Velik",
+        "location": "Fergana",
+        "images": [
+            "AgACAgIAAxkBAAMyZu1YUY6lK_lcQ7MiwHft816kNscAAvvcMRtQ4WhLbH-vVySwSYgBAAMCAAN4AAM2BA"
+        ],
+        "created_at": "2024-09-20T11:10:23.028733",
+        "id": 3
+    },
+    {
+        "user_id": 5424685582,
+        "title": "iPhone 14 Plus 256gb Blue",
+        "description": "В идеале",
+        "price": 950.0,
+        "currency": "USD",
+        "category": "Phone",
+        "location": "Fergana",
+        "images": [
+            "AgACAgIAAxkBAANEZu1Y5I5tKZhDSdj2AQRgXOFR-jUAAgfjMRvvMmlLZoVYxa7_lJsBAAMCAAN5AAM2BA"
+        ],
+        "created_at": "2024-09-20T11:12:56.733374",
+        "id": 4
+    },
+    {
+        "user_id": 6535682768,
+        "title": "IPhone 7",
+        "description": "IPhone 7 holati zor bir qol",
+        "price": 100.0,
+        "currency": "USD",
+        "category": "Iphone",
+        "location": "Tashkent",
+        "images": [],
+        "created_at": "2024-09-20T11:42:53.905482",
+        "id": 5
+    },
+    {
+        "user_id": 6535682768,
+        "title": "iPhone",
+        "description": "Hello",
+        "price": 200.0,
+        "currency": "USD",
+        "category": "Iphone",
+        "location": "Tashkent",
+        "images": [],
+        "created_at": "2024-09-20T11:47:17.496158",
+        "id": 6
+    }
+]
