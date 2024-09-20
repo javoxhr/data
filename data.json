@@ -140,5 +140,17 @@
         ],
         "created_at": "2024-09-20T14:27:59.318475",
         "id": 11
+    },
+    {
+        "user_id": 6535682768,
+        "title": "Верестка сайт",
+        "description": "Я могу вам сделать html страниция за дёшево",
+        "price": 5.0,
+        "currency": "USD",
+        "category": "Обучение",
+        "location": "Fergana",
+        "images": [],
+        "created_at": "2024-09-20T15:55:37.767938",
+        "id": 12
     }
 ]
