@@ -346,5 +346,19 @@
         "images": [],
         "created_at": "2024-09-21T15:54:54.196735",
         "id": 28
+    },
+    {
+        "user_id": 5816401755,
+        "title": "javav",
+        "description": "javavavavava",
+        "price": 123.0,
+        "currency": "USD",
+        "category": "wer",
+        "location": "www",
+        "images": [
+            "AgACAgIAAxkBAAIC8Wbu72jJWL-i3P9w6P9DB07MlVS4AAJL4jEbbVJ4S9muhctpp6nnAQADAgADeQADNgQ"
+        ],
+        "created_at": "2024-09-21T16:31:04.623426",
+        "id": 29
     }
 ]
