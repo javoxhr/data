@@ -239,14 +239,14 @@
     },
     {
         "user_id": 6535682768,
-        "title": "Salfetka",
-        "description": "Salfetkalar",
-        "price": 2.0,
+        "title": "🔋",
+        "description": "Продаю батарейки 🔋",
+        "price": 5.0,
         "currency": "USD",
-        "category": "Salfetka",
+        "category": "Battery",
         "location": "Fergana",
         "images": [],
-        "created_at": "2024-09-21T11:00:36.708823",
+        "created_at": "2024-09-21T11:02:02.232744",
         "id": 20
     }
 ]
