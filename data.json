@@ -363,14 +363,14 @@
     },
     {
         "user_id": 6535682768,
-        "title": "java",
-        "description": "hello world",
-        "price": 200.0,
+        "title": "apple watch ultra",
+        "description": "Продаю Apple watch",
+        "price": 100.0,
         "currency": "USD",
-        "category": "help",
+        "category": "watch",
         "location": "fergana",
         "images": [],
-        "created_at": "2024-09-23T12:00:31.800193",
+        "created_at": "2024-09-23T12:02:58.116684",
         "id": 30
     }
 ]
