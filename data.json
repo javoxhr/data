@@ -504,19 +504,19 @@
     },
     {
         "user_id": 5816401755,
-        "title": "java",
-        "description": "Сделаю телеграм примум за копйку",
-        "price": 10.0,
+        "title": "Telegram primium",
+        "description": "подписка на год",
+        "price": 200.0,
         "currency": "USD",
         "category": "vaucher",
         "location": "fergana",
         "images": [
             {
-                "id": "AgACAgIAAxkBAAIGqWby6Q9W77bO3lOddm5fuXxYNSJyAAI16DEbLqqRSxPGZp2mWjhMAQADAgADeQADNgQ",
-                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIGqWby6Q9W77bO3lOddm5fuXxYNSJyAAI16DEbLqqRSxPGZp2mWjhMAQADAgADeQADNgQ.jpg"
+                "id": "AgACAgIAAxkBAAIGzWby8jZJ0_PLWQp82H2jCjDVpxvKAAKq6DEbLqqRS10dKnqA8w7BAQADAgADeQADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIGzWby8jZJ0_PLWQp82H2jCjDVpxvKAAKq6DEbLqqRS10dKnqA8w7BAQADAgADeQADNgQ.jpg"
             }
         ],
-        "created_at": "2024-09-24T17:54:25.408088",
+        "created_at": "2024-09-24T17:58:15.919235",
         "id": 41
     }
 ]
