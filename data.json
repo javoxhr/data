@@ -520,20 +520,20 @@
         "id": 41
     },
     {
-        "user_id": 6535682768,
-        "title": "Iphone",
-        "description": "Iphone normal sostayana",
-        "price": 300.0,
+        "user_id": 5816401755,
+        "title": "Samsung",
+        "description": "Samsung",
+        "price": 976.0,
         "currency": "USD",
-        "category": "Phone",
+        "category": "Guy",
         "location": "Fergana",
         "images": [
             {
-                "id": "AgACAgIAAxkBAAIHdWby_pJn5CGiXpZdtl52fjWnc7lrAAIm3jEbZmGYS7_ctUImPZzfAQADAgADeQADNgQ",
-                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIHdWby_pJn5CGiXpZdtl52fjWnc7lrAAIm3jEbZmGYS7_ctUImPZzfAQADAgADeQADNgQ.jpg"
+                "id": "AgACAgIAAxkBAAIHh2by_xktUGoQu2u-DEg3NVK58QXUAAL95DEbLqqZSwvBD9thYJYnAQADAgADeQADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIHh2by_xktUGoQu2u-DEg3NVK58QXUAAL95DEbLqqZSwvBD9thYJYnAQADAgADeQADNgQ.jpg"
             }
         ],
-        "created_at": "2024-09-24T18:01:11.438133",
+        "created_at": "2024-09-24T18:03:33.122655",
         "id": 42
     }
 ]
