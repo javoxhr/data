@@ -535,5 +535,22 @@
         ],
         "created_at": "2024-09-24T18:06:06.127444",
         "id": 42
+    },
+    {
+        "user_id": 2055642044,
+        "title": "Hhhuu",
+        "description": "DJ hi",
+        "price": 77.0,
+        "currency": "USD",
+        "category": "H",
+        "location": "Fer",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIHq2bzAAEgF5AlsNkzHOO5pLReV05ahgACD-ExG0uKmEvLw2bbEfbJWwEAAwIAA3gAAzYE",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIHq2bzAAEgF5AlsNkzHOO5pLReV05ahgACD-ExG0uKmEvLw2bbEfbJWwEAAwIAA3gAAzYE.jpg"
+            }
+        ],
+        "created_at": "2024-09-24T18:08:11.585371",
+        "id": 43
     }
 ]
