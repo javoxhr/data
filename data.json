@@ -521,19 +521,19 @@
     },
     {
         "user_id": 5816401755,
-        "title": "Samsung",
-        "description": "Samsung",
-        "price": 976.0,
+        "title": "Cobalt",
+        "description": "Yili yangi",
+        "price": 9000.0,
         "currency": "USD",
-        "category": "Guy",
+        "category": "Car",
         "location": "Fergana",
         "images": [
             {
-                "id": "AgACAgIAAxkBAAIHh2by_xktUGoQu2u-DEg3NVK58QXUAAL95DEbLqqZSwvBD9thYJYnAQADAgADeQADNgQ",
-                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIHh2by_xktUGoQu2u-DEg3NVK58QXUAAL95DEbLqqZSwvBD9thYJYnAQADAgADeQADNgQ.jpg"
+                "id": "AgACAgIAAxkBAAIHmWby_7pgHP5OGtHbXP2c6KduDTkPAAIn5TEbLqqZS1h5TTgyP2jMAQADAgADeQADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIHmWby_7pgHP5OGtHbXP2c6KduDTkPAAIn5TEbLqqZS1h5TTgyP2jMAQADAgADeQADNgQ.jpg"
             }
         ],
-        "created_at": "2024-09-24T18:03:33.122655",
+        "created_at": "2024-09-24T18:06:06.127444",
         "id": 42
     }
 ]
