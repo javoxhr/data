@@ -396,5 +396,17 @@
         "images": [],
         "created_at": "2024-09-24T10:52:15.952787",
         "id": 32
+    },
+    {
+        "user_id": 1475359914,
+        "title": "Krasovka",
+        "description": "Samandar",
+        "price": 129.0,
+        "currency": "USD",
+        "category": "Vor",
+        "location": "Toshkent",
+        "images": [],
+        "created_at": "2024-09-24T11:44:02.930370",
+        "id": 33
     }
 ]
