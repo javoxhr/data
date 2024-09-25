@@ -66,5 +66,22 @@
         ],
         "created_at": "2024-09-25T10:35:15.447805",
         "id": 4
+    },
+    {
+        "user_id": 6535682768,
+        "title": "iphone 15 Pro Max",
+        "description": "iphone 15 pro max торг нет",
+        "price": 10000.0,
+        "currency": "USD",
+        "category": "phone",
+        "location": "Toshkent, Chilonzor",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIH7mbz6lOTkBwX4sDlSJ2EibshsswTAAI03DEb7e6hS9FpWw1dHvM0AQADAgADeQADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIH7mbz6lOTkBwX4sDlSJ2EibshsswTAAI03DEb7e6hS9FpWw1dHvM0AQADAgADeQADNgQ.jpg"
+            }
+        ],
+        "created_at": "2024-09-25T10:46:19.130087",
+        "id": 5
     }
 ]
