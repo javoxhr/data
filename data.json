@@ -134,5 +134,22 @@
         ],
         "created_at": "2024-09-25T11:53:24.293617",
         "id": 8
+    },
+    {
+        "user_id": 5424685582,
+        "title": "Кот в добрые руки",
+        "description": "Хороший, умный кот",
+        "price": 1000.0,
+        "currency": "USD",
+        "category": "Животные",
+        "location": "Samarqand, Jomboy Tumani",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIIOGbz_UV6pXpDtwH_uH0eocCwHjW5AAI04zEbMKihSwMaojg6rVBkAQADAgADeQADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIIOGbz_UV6pXpDtwH_uH0eocCwHjW5AAI04zEbMKihSwMaojg6rVBkAQADAgADeQADNgQ.jpg"
+            }
+        ],
+        "created_at": "2024-09-25T12:04:57.378568",
+        "id": 9
     }
 ]
