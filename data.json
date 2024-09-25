@@ -100,5 +100,22 @@
         ],
         "created_at": "2024-09-25T10:59:12.140043",
         "id": 6
+    },
+    {
+        "user_id": 6535682768,
+        "title": "Оригинальный Zara",
+        "description": "zara б/у",
+        "price": 200.0,
+        "currency": "USD",
+        "category": "clother",
+        "location": "Farg'ona, shahar",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIIE2bz77Xs_FRbskNkPklLODOzSOn4AAJn3DEb7e6hSwb_1rL-J-RYAQADAgADeQADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIIE2bz77Xs_FRbskNkPklLODOzSOn4AAJn3DEb7e6hSwb_1rL-J-RYAQADAgADeQADNgQ.jpg"
+            }
+        ],
+        "created_at": "2024-09-25T11:09:26.749371",
+        "id": 7
     }
 ]
