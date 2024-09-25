@@ -20,7 +20,7 @@
         "user_id": 5816401755,
         "title": "Telegram primium",
         "description": "подписка на год",
-        "price": 200.000,
+        "price": 200.0,
         "currency": "USD",
         "category": "vaucher",
         "location": "Toshkent, Uchtepa",
@@ -66,5 +66,22 @@
         ],
         "created_at": "2024-09-24T18:08:11.585371",
         "id": 43
+    },
+    {
+        "user_id": 5424685582,
+        "title": "Фудболка",
+        "description": "Фудболка в хорошем состоянии",
+        "price": 1000.0,
+        "currency": "USD",
+        "category": "Clothes",
+        "location": "Farg’ona",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIHx2bzwyInudhRdCoYZNKTXDrAV7cIAAKa4zEbP7mRS9zlcOdyUWuPAQADAgADeQADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIHx2bzwyInudhRdCoYZNKTXDrAV7cIAAKa4zEbP7mRS9zlcOdyUWuPAQADAgADeQADNgQ.jpg"
+            }
+        ],
+        "created_at": "2024-09-25T07:59:28.051781",
+        "id": 5
     }
 ]
