@@ -137,19 +137,19 @@
     },
     {
         "user_id": 5424685582,
-        "title": "Кот в добрые руки",
-        "description": "Хороший, умный кот",
-        "price": 1000.0,
+        "title": "iPad 64gb в идеале",
+        "description": "В идеальном состояние",
+        "price": 350000.0,
         "currency": "USD",
-        "category": "Животные",
-        "location": "Samarqand, Jomboy Tumani",
+        "category": "Планшеты",
+        "location": "Farg’ona shahar",
         "images": [
             {
-                "id": "AgACAgIAAxkBAAIIOGbz_UV6pXpDtwH_uH0eocCwHjW5AAI04zEbMKihSwMaojg6rVBkAQADAgADeQADNgQ",
-                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIIOGbz_UV6pXpDtwH_uH0eocCwHjW5AAI04zEbMKihSwMaojg6rVBkAQADAgADeQADNgQ.jpg"
+                "id": "AgACAgIAAxkBAAIISmbz_etFEJLqf0MAARrjoQxjB8oomQACOOMxGzCooUtldOr3g_HNAwEAAwIAA3kAAzYE",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIISmbz_etFEJLqf0MAARrjoQxjB8oomQACOOMxGzCooUtldOr3g_HNAwEAAwIAA3kAAzYE.jpg"
             }
         ],
-        "created_at": "2024-09-25T12:04:57.378568",
+        "created_at": "2024-09-25T12:10:25.126502",
         "id": 9
     }
 ]
