@@ -23,7 +23,7 @@
         "price": 200.0,
         "currency": "USD",
         "category": "vaucher",
-        "location": "fergana",
+        "location": "Toshkent, Uchtepa",
         "images": [
             {
                 "id": "AgACAgIAAxkBAAIGzWby8jZJ0_PLWQp82H2jCjDVpxvKAAKq6DEbLqqRS10dKnqA8w7BAQADAgADeQADNgQ",
@@ -40,7 +40,7 @@
         "price": 9000.0,
         "currency": "USD",
         "category": "Car",
-        "location": "Fergana",
+        "location": "Andijon, Baliqchi",
         "images": [
             {
                 "id": "AgACAgIAAxkBAAIHmWby_7pgHP5OGtHbXP2c6KduDTkPAAIn5TEbLqqZS1h5TTgyP2jMAQADAgADeQADNgQ",
