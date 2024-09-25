@@ -49,5 +49,22 @@
         ],
         "created_at": "2024-09-24T18:06:06.127444",
         "id": 42
+    },
+    {
+        "user_id": 6535682768,
+        "title": "Велосипед",
+        "description": "продаю свой",
+        "price": 2000.0,
+        "currency": "USD",
+        "category": "velik",
+        "location": "Farg'ona, shahar",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIH3Gbz58IVd11Ab3KoCuoVt1K9Okx8AAIj3DEb7e6hS2u_uR08v7k1AQADAgADeAADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIH3Gbz58IVd11Ab3KoCuoVt1K9Okx8AAIj3DEb7e6hS2u_uR08v7k1AQADAgADeAADNgQ.jpg"
+            }
+        ],
+        "created_at": "2024-09-25T10:35:15.447805",
+        "id": 4
     }
 ]
