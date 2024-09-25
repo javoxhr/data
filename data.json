@@ -83,5 +83,22 @@
         ],
         "created_at": "2024-09-25T10:46:19.130087",
         "id": 5
+    },
+    {
+        "user_id": 6535682768,
+        "title": "iphone 5s полный комплект",
+        "description": "iphone 5s в идиале",
+        "price": 100.0,
+        "currency": "USD",
+        "category": "phone",
+        "location": "Farg'ona, Qoqon",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIIAWbz7Vs9zjnmzD8gRBGNAzgH7WCLAAJA3DEb7e6hS-r5FTZ1B7VrAQADAgADeAADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIIAWbz7Vs9zjnmzD8gRBGNAzgH7WCLAAJA3DEb7e6hS-r5FTZ1B7VrAQADAgADeAADNgQ.jpg"
+            }
+        ],
+        "created_at": "2024-09-25T10:59:12.140043",
+        "id": 6
     }
 ]
