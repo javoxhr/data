@@ -202,5 +202,22 @@
         ],
         "created_at": "2024-09-29T10:23:22.357906",
         "id": 12
+    },
+    {
+        "user_id": 5816401755,
+        "title": "Salt",
+        "description": "tuz ovqatlarni mazasini taminlaydi",
+        "price": 7000.0,
+        "currency": "USD",
+        "category": "salt",
+        "location": "Farg'ona",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIIrWb70OdV-CB_NtaOTbhRxlmt9qyWAAIE4jEbC1ThSxxOKGgjPsGJAQADAgADeAADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIIrWb70OdV-CB_NtaOTbhRxlmt9qyWAAIE4jEbC1ThSxxOKGgjPsGJAQADAgADeAADNgQ.jpg"
+            }
+        ],
+        "created_at": "2024-10-01T10:36:07.626093",
+        "id": 13
     }
 ]
