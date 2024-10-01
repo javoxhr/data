@@ -202,5 +202,23 @@
         ],
         "created_at": "2024-09-29T10:23:22.357906",
         "id": 12
+    },
+    {
+        "user_id": 5816401755,
+        "username": "JVBVHIR",
+        "title": "Крипта валюта",
+        "description": "Научу вам работать в крипто валюте",
+        "price": 1000.0,
+        "currency": "USD",
+        "category": "talon",
+        "location": "Farg'ona",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIIv2b8LikgrHM2aORMWWac2u7p9t-uAAKW4jEbC1TpS1YPGK9a6uacAQADAgADeQADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIIv2b8LikgrHM2aORMWWac2u7p9t-uAAKW4jEbC1TpS1YPGK9a6uacAQADAgADeQADNgQ.jpg"
+            }
+        ],
+        "created_at": "2024-10-01T17:13:16.389951",
+        "id": 13
     }
 ]
