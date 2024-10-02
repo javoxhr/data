@@ -292,5 +292,23 @@
         ],
         "created_at": "2024-10-02T16:11:00.729086",
         "id": 17
+    },
+    {
+        "user_id": 6535682768,
+        "username": "jAvA_message",
+        "title": "iphone 8 pluse",
+        "description": "iphone 8 plus цвет gold есть коробка документ в подарок чехол есть торг пишите, звоните",
+        "price": 500.0,
+        "currency": "USD",
+        "category": "phones",
+        "location": "Samarqand",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIJUmb9c3p6RVrumanQM6BlGl8TDgABlwAC5fIxGxjl6UvP0k6O1gyd3AEAAwIAA3kAAzYE",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIJUmb9c3p6RVrumanQM6BlGl8TDgABlwAC5fIxGxjl6UvP0k6O1gyd3AEAAwIAA3kAAzYE.jpg"
+            }
+        ],
+        "created_at": "2024-10-02T16:22:45.216664",
+        "id": 18
     }
 ]
