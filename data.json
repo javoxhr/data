@@ -310,5 +310,23 @@
         ],
         "created_at": "2024-10-02T16:22:45.216664",
         "id": 18
+    },
+    {
+        "user_id": 5816401755,
+        "username": "JVBVHIR",
+        "title": "Iphone se 2016",
+        "description": "Продаю свой iPhone se 2016 памят 32гб скол и царапинки нету продаю так как купил новый",
+        "price": 260.0,
+        "currency": "USD",
+        "category": "Phones",
+        "location": "Toshkent",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIJZGb9h28v1DEYvKZkXr-Io0c5gv_MAAL24jEb2OnwS5JopaEPHM57AQADAgADeQADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIJZGb9h28v1DEYvKZkXr-Io0c5gv_MAAL24jEb2OnwS5JopaEPHM57AQADAgADeQADNgQ.jpg"
+            }
+        ],
+        "created_at": "2024-10-02T17:46:01.318266",
+        "id": 19
     }
 ]
