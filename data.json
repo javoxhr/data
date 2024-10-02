@@ -274,5 +274,23 @@
         ],
         "created_at": "2024-10-02T16:03:56.759546",
         "id": 16
+    },
+    {
+        "user_id": 6535682768,
+        "username": "jAvA_message",
+        "title": "ipod classic",
+        "description": "ipod classic упаковка не вскрывался пишите, звоните ☎️",
+        "price": 300.0,
+        "currency": "USD",
+        "category": "audio",
+        "location": "Toshkent",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIJM2b9cUAtYEzjHVYrPFa4v6zfeYdAAALO8jEbGOXpSzVZvAAB-y5o3AEAAwIAA3gAAzYE",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIJM2b9cUAtYEzjHVYrPFa4v6zfeYdAAALO8jEbGOXpSzVZvAAB-y5o3AEAAwIAA3gAAzYE.jpg"
+            }
+        ],
+        "created_at": "2024-10-02T16:11:00.729086",
+        "id": 17
     }
 ]
