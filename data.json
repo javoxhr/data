@@ -346,5 +346,18 @@
         ],
         "created_at": "2024-10-04T10:26:39.675571",
         "id": 20
+    },
+    {
+        "user_id": 6910352989,
+        "username": "Toirov090",
+        "title": "Car",
+        "description": "Minish uchun",
+        "price": 10000.0,
+        "currency": "USD",
+        "category": "H",
+        "location": "Fergana",
+        "images": [],
+        "created_at": "2024-10-04T12:22:58.303610",
+        "id": 21
     }
 ]
