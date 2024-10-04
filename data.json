@@ -328,5 +328,23 @@
         ],
         "created_at": "2024-10-02T17:46:01.318266",
         "id": 19
+    },
+    {
+        "user_id": 5816401755,
+        "username": "JVBVHIR",
+        "title": "Yup",
+        "description": "Rangi oq\nUzunligi 25 \nKengligi 32",
+        "price": 1200.0,
+        "currency": "USD",
+        "category": "6",
+        "location": "Hfjk",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIJd2b_wymmTHf7oBuNPtcf4n9SZ00pAAKp4jEb2qn4Syzhj1tJ2HayAQADAgADeQADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIJd2b_wymmTHf7oBuNPtcf4n9SZ00pAAKp4jEb2qn4Syzhj1tJ2HayAQADAgADeQADNgQ.jpg"
+            }
+        ],
+        "created_at": "2024-10-04T10:26:39.675571",
+        "id": 20
     }
 ]
