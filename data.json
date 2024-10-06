@@ -395,5 +395,23 @@
         ],
         "created_at": "2024-10-06T18:27:06.851697",
         "id": 23
+    },
+    {
+        "user_id": 5816401755,
+        "username": "JVBVHIR",
+        "title": "ipad air 1",
+        "description": "ipad air 1 ishlashi zo'r range gray joyi 32gb kami bor",
+        "price": 1000.0,
+        "currency": "USD",
+        "category": "Kompyuterlar 🖥",
+        "location": "Toshkent",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIKBGcC3-rNG2uO0w4FYkm671bYk9F_AAJe3zEbRaUZSKHNHcTb1yl3AQADAgADeQADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIKBGcC3-rNG2uO0w4FYkm671bYk9F_AAJe3zEbRaUZSKHNHcTb1yl3AQADAgADeQADNgQ.jpg"
+            }
+        ],
+        "created_at": "2024-10-06T19:05:34.361372",
+        "id": 24
     }
 ]
