@@ -449,5 +449,23 @@
         ],
         "created_at": "2024-10-06T19:26:18.252190",
         "id": 26
+    },
+    {
+        "user_id": 5816401755,
+        "username": "JVBVHIR",
+        "title": "iPod touch",
+        "description": "IPod touch \nHolati yangi upakofkasi ochilmagan.\n\nKorobka dokument bor ✅\n\nGarantiya bor ✅\n\nRangi pink💖\n\nPamyati 64gb🗃\n\nNarxi 200$\n\nOldiganlar yozilar✉️, tel qililar 📞",
+        "price": 4000.0,
+        "currency": "USD",
+        "category": "Smartfonlar 📱",
+        "location": "Toshkent",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIKOmcDozMAAVGH09aWbBu27RaMvpjWngACkt4xGxUUIEjV1Zt10ncsGgEAAwIAA3kAAzYE",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIKOmcDozMAAVGH09aWbBu27RaMvpjWngACkt4xGxUUIEjV1Zt10ncsGgEAAwIAA3kAAzYE.jpg"
+            }
+        ],
+        "created_at": "2024-10-07T08:53:15.937041",
+        "id": 27
     }
 ]
