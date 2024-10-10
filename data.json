@@ -682,5 +682,24 @@
         "blockProfile": true,
         "created_at": "2024-10-10T17:46:42.123563",
         "id": 39
+    },
+    {
+        "user_id": 5816401755,
+        "username": "JVBVHIR",
+        "title": "Кепка",
+        "description": "Кепка новая",
+        "price": 3000.0,
+        "currency": "USD",
+        "category": "Aksessuarlar 🔋",
+        "location": "Farg'ona",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAILdGcIFtDF1nAJ6uqLgXmB6ccdiQ09AAIM6TEbQ4NBSMIAAWFZr6T9LgEAAwIAA3kAAzYE",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAILdGcIFtDF1nAJ6uqLgXmB6ccdiQ09AAIM6TEbQ4NBSMIAAWFZr6T9LgEAAwIAA3kAAzYE.jpg"
+            }
+        ],
+        "blockProfile": true,
+        "created_at": "2024-10-10T18:02:20.279742",
+        "id": 40
     }
 ]
