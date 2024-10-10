@@ -520,7 +520,9 @@
         "category": "Kompyuterlar 🖥",
         "location": "Toshkent",
         "images": [
-            "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIKr2cH2puy3Rfkbq_EHil5yUMlKJXKAAL23zEbaXFASFwOPwzLMVG-AQADAgADeQADNgQ.jpg"
+            {
+                "id": "AgACAgIAAxkBAAIKr2cH2puy3Rfkbq_EHil5yUMlKJXKAAL23zEbaXFASFwOPwzLMVG-AQADAgADeQADNgQ.jpg"
+            }
         ],
         "blockProfile": true,
         "created_at": "2024-10-10T13:45:18.918189",
