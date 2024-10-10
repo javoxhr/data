@@ -581,5 +581,23 @@
         "blockProfile": true,
         "created_at": "2024-10-10T14:30:02.907082",
         "id": 33
+    },
+    {
+        "user_id": 5816401755,
+        "username": "JVBVHIR",
+        "title": "Кепка",
+        "description": "Кепка в хорошим состояния оргинал✅",
+        "price": 2000.0,
+        "currency": "UZS",
+        "category": "Kiyimlar 👕",
+        "location": "Farg'ona",
+        "images": [
+            {
+                "id": "AgACAgIAAxkBAAIK-2cH7UNoKA6Qb6brme0SSNpm9hd4AALS5zEbQ4NBSKL0CULBjaXdAQADAgADeQADNgQ"
+            }
+        ],
+        "blockProfile": true,
+        "created_at": "2024-10-10T15:04:41.175091",
+        "id": 34
     }
 ]
