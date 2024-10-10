@@ -672,15 +672,15 @@
         "username": "JVBVHIR",
         "title": "Подписка на PS 3",
         "description": "Подписка на Ps store на год",
-        "price": 3000.0,
-        "currency": "USD",
+        "price": 30000.0,
+        "currency": "UZS",
         "category": "Aksessuarlar 🔋",
-        "location": "Andijon",
+        "location": "Farg'ona",
         "images": [
             "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAILQWcIDkdl2ulS6dBqqYqEemmjrBqdAALg6DEbQ4NBSNAzI-oPQ3x4AQADAgADbQADNgQ.jpg"
         ],
         "blockProfile": true,
-        "created_at": "2024-10-10T17:41:35.767535",
+        "created_at": "2024-10-10T17:46:42.123563",
         "id": 39
     }
 ]
