@@ -511,24 +511,6 @@
         "id": 29
     },
     {
-        "user_id": 6535682768,
-        "username": "jAvA_message",
-        "title": "Mac mini",
-        "description": "mac mini б/у",
-        "price": 10000.0,
-        "currency": "UZS",
-        "category": "Kompyuterlar 🖥",
-        "location": "Toshkent",
-        "images": [
-            {
-                "id": "AgACAgIAAxkBAAIKr2cH2puy3Rfkbq_EHil5yUMlKJXKAAL23zEbaXFASFwOPwzLMVG-AQADAgADeQADNgQ.jpg"
-            }
-        ],
-        "blockProfile": true,
-        "created_at": "2024-10-10T13:45:18.918189",
-        "id": 30
-    },
-    {
         "user_id": 5816401755,
         "username": "JVBVHIR",
         "title": "iphone 5c",
