@@ -569,59 +569,6 @@
     {
         "user_id": 5816401755,
         "username": "JVBVHIR",
-        "title": "iphone 8",
-        "description": "iphone 8 в ремонте не был",
-        "price": 3000.0,
-        "currency": "UZS",
-        "category": "Smartfonlar 📱",
-        "location": "Farg'ona",
-        "images": [
-            "AgACAgIAAxkBAAIK62cH5R_RJMVLUG9MxnAeXN8sOx0OAAJ45zEbQ4NBSG3wdKn1QwHXAQADAgADeQADNgQ"
-        ],
-        "blockProfile": true,
-        "created_at": "2024-10-10T14:30:02.907082",
-        "id": 33
-    },
-    {
-        "user_id": 5816401755,
-        "username": "JVBVHIR",
-        "title": "Кепка",
-        "description": "Кепка в хорошим состояния оргинал✅",
-        "price": 2000.0,
-        "currency": "UZS",
-        "category": "Kiyimlar 👕",
-        "location": "Farg'ona",
-        "images": [
-            {
-                "id": "AgACAgIAAxkBAAIK-2cH7UNoKA6Qb6brme0SSNpm9hd4AALS5zEbQ4NBSKL0CULBjaXdAQADAgADeQADNgQ"
-            }
-        ],
-        "blockProfile": true,
-        "created_at": "2024-10-10T15:04:41.175091",
-        "id": 34
-    },
-    {
-        "user_id": 5816401755,
-        "username": "JVBVHIR",
-        "title": "Телевизор",
-        "description": "нормальный телик почти новое есть интернет и система андроид",
-        "price": 50000.0,
-        "currency": "UZS",
-        "category": "Kompyuterlar 🖥",
-        "location": "Farg'ona",
-        "images": [
-            {
-                "id": "AgACAgIAAxkBAAILC2cH79jQL9oI-HLGuAc93xr0grHAAALr5zEbQ4NBSF47funQhIwqAQADAgADeQADNgQ",
-                "url": "https://api.github.com/repos/javoxhr/data/contents/images/AgACAgIAAxkBAAILC2cH79jQL9oI-HLGuAc93xr0grHAAALr5zEbQ4NBSF47funQhIwqAQADAgADeQADNgQ.jpg"
-            }
-        ],
-        "blockProfile": true,
-        "created_at": "2024-10-10T15:15:26.438048",
-        "id": 35
-    },
-    {
-        "user_id": 5816401755,
-        "username": "JVBVHIR",
         "title": "Playstation 3",
         "description": "playstition 3 slim fat",
         "price": 1000.0,
@@ -637,51 +584,6 @@
         "blockProfile": true,
         "created_at": "2024-10-10T15:32:38.851017",
         "id": 36
-    },
-    {
-        "user_id": 5816401755,
-        "username": "JVBVHIR",
-        "title": "Подписка на ps 3",
-        "description": "подписка на год бесплатно все игры в том числе gta 5 gta 4 forza",
-        "price": 20000.0,
-        "currency": "UZS",
-        "category": "Aksessuarlar 🔋",
-        "location": "Farg'ona",
-        "images": [
-            "https://raw.githubusercontent.com/javoxhr/data/main/images/image_AgACAgIAAxkBAAILL2cH9Z15NTvyDt_9eQQ6j29xN3w5AAIS6DEbQ4NBSKQvrFFAg7b0AQADAgADbQADNgQ.jpg"
-        ],
-        "blockProfile": true,
-        "created_at": "2024-10-10T15:39:31.214613",
-        "id": 37
-    },
-    {
-        "user_id": 5816401755,
-        "username": "JVBVHIR",
-        "title": "Подписка на PS 3",
-        "description": "Подписка на Ps store на год",
-        "price": 1000.0,
-        "currency": "UZS",
-        "category": "Aksessuarlar 🔋",
-        "location": "Farg'ona",
-        "images": [],
-        "blockProfile": true,
-        "created_at": "2024-10-10T17:25:36.199281"
-    },
-    {
-        "user_id": 5816401755,
-        "username": "JVBVHIR",
-        "title": "Подписка на PS 3",
-        "description": "Подписка на Ps store на год",
-        "price": 30000.0,
-        "currency": "UZS",
-        "category": "Aksessuarlar 🔋",
-        "location": "Farg'ona",
-        "images": [
-            "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAILQWcIDkdl2ulS6dBqqYqEemmjrBqdAALg6DEbQ4NBSNAzI-oPQ3x4AQADAgADbQADNgQ.jpg"
-        ],
-        "blockProfile": true,
-        "created_at": "2024-10-10T17:46:42.123563",
-        "id": 39
     },
     {
         "user_id": 5816401755,
