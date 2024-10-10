@@ -527,5 +527,24 @@
         "blockProfile": true,
         "created_at": "2024-10-10T13:45:18.918189",
         "id": 30
+    },
+    {
+        "user_id": 5816401755,
+        "username": "JVBVHIR",
+        "title": "iphone 5c",
+        "description": "iphone 5c в отличном состояние в комплекте есть кабел",
+        "price": 2000.0,
+        "currency": "UZS",
+        "category": "Smartfonlar 📱",
+        "location": "Farg'ona",
+        "images": [
+            {
+                "id": "image_AgACAgIAAxkBAAIKyWcH3TW2HYEfDfo_N0bzasOigTOsAAJG5zEbQ4NBSIeETeO9SvVkAQADAgADeAADNgQ",
+                "url": "https://api.github.com/repos/javoxhr/data/contents/images/image_AgACAgIAAxkBAAIKyWcH3TW2HYEfDfo_N0bzasOigTOsAAJG5zEbQ4NBSIeETeO9SvVkAQADAgADeAADNgQ.jpg"
+            }
+        ],
+        "blockProfile": true,
+        "created_at": "2024-10-10T13:55:30.725246",
+        "id": 31
     }
 ]
