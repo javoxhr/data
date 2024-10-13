@@ -5,7 +5,7 @@
         "description": "kjh",
         "price": 990000,
         "currency": "USD",
-        "category": "lkjhg",
+        "category": "Vaucherlar",
         "location": "Farg'ona, Ozodlik",
         "images": [
             {
@@ -22,7 +22,7 @@
         "description": "подписка на год",
         "price": 200.0,
         "currency": "USD",
-        "category": "vaucher",
+        "category": "Vaucherlar",
         "location": "Toshkent, Uchtepa",
         "images": [
             {
@@ -39,7 +39,7 @@
         "description": "Yili yangi",
         "price": 9000.0,
         "currency": "USD",
-        "category": "Car",
+        "category": "Mashinalar",
         "location": "Andijon, Baliqchi",
         "images": [
             {
@@ -56,7 +56,7 @@
         "description": "продаю свой",
         "price": 2000.0,
         "currency": "USD",
-        "category": "velik",
+        "category": "Velosipedlar",
         "location": "Farg'ona, shahar",
         "images": [
             {
@@ -73,7 +73,7 @@
         "description": "iphone 15 pro max торг нет",
         "price": 10000.0,
         "currency": "USD",
-        "category": "phone",
+        "category": "Telefonlar",
         "location": "Toshkent, Chilonzor",
         "images": [
             {
@@ -90,7 +90,7 @@
         "description": "iphone 5s в идиале",
         "price": 100.0,
         "currency": "USD",
-        "category": "phone",
+        "category": "Telefonlar",
         "location": "Farg'ona, Qoqon",
         "images": [
             {
@@ -107,7 +107,7 @@
         "description": "zara б/у",
         "price": 200.0,
         "currency": "USD",
-        "category": "clother",
+        "category": "Kiyimlar",
         "location": "Farg'ona, shahar",
         "images": [
             {
@@ -124,7 +124,7 @@
         "description": "hello",
         "price": 3000.0,
         "currency": "USD",
-        "category": "mexanika",
+        "category": "Vaucherlar",
         "location": "Fergana",
         "images": [
             {
@@ -141,7 +141,7 @@
         "description": "В идеальном состояние",
         "price": 350000.0,
         "currency": "USD",
-        "category": "Планшеты",
+        "category": "Planshetlar",
         "location": "Farg’ona shahar",
         "images": [
             {
@@ -154,12 +154,12 @@
     },
     {
         "user_id": 6535682768,
-        "title": "javox",
-        "description": "ticher",
+        "title": "Tg priemum",
+        "description": "Telegram priemum arzonga",
         "price": 0.0,
         "currency": "USD",
-        "category": "eshak",
-        "location": "mol xona",
+        "category": "Vaucherlar",
+        "location": "Farg'ona",
         "images": [
             {
                 "id": "AgACAgIAAxkBAAIIdmb1SRP29oA_4EjewDS-agQx-NCwAALA4jEb7e6xSzmAIJUvJ4OnAQADAgADeQADNgQ",
@@ -175,7 +175,7 @@
         "description": "у меня есть 10 000 хомяк",
         "price": 2000.0,
         "currency": "USD",
-        "category": "talon",
+        "category": "Vaucherlar",
         "location": "Farg'ona,  dokanal",
         "images": [
             {
@@ -192,7 +192,7 @@
         "description": "iphone в хорошим состоянии продаю потому что купил 16 про",
         "price": 5000.0,
         "currency": "USD",
-        "category": "phone",
+        "category": "Telefonlar",
         "location": "Toshkent, uchtepa",
         "images": [
             {
@@ -207,10 +207,10 @@
         "user_id": 5816401755,
         "username": "JVBVHIR",
         "title": "Крипта валюта",
-        "description": "Научу вам работать в крипто валюте",
+        "description": "Научу вам работать в крипте",
         "price": 1000.0,
         "currency": "USD",
-        "category": "talon",
+        "category": "Vaucherlar",
         "location": "Farg'ona",
         "images": [
             {
@@ -228,7 +228,7 @@
         "description": "Blunt",
         "price": 2000000.0,
         "currency": "USD",
-        "category": "Cigarettes",
+        "category": "Vaucherlar",
         "location": "Los Angeles",
         "images": [
             {
@@ -264,7 +264,7 @@
         "description": "Корпус для пк с подсветкой кулеры в подарок 🎁",
         "price": 200.0,
         "currency": "USD",
-        "category": "Computer",
+        "category": "Kompyuterlar",
         "location": "Farg’ona",
         "images": [
             {
@@ -300,7 +300,7 @@
         "description": "iphone 8 plus цвет gold есть коробка документ в подарок чехол есть торг пишите, звоните",
         "price": 500.0,
         "currency": "USD",
-        "category": "phones",
+        "category": "Telefonlar",
         "location": "Samarqand",
         "images": [
             {
@@ -318,7 +318,7 @@
         "description": "Продаю свой iPhone se 2016 памят 32гб скол и царапинки нету продаю так как купил новый",
         "price": 260.0,
         "currency": "USD",
-        "category": "Phones",
+        "category": "Telefonlar",
         "location": "Toshkent",
         "images": [
             {
@@ -336,8 +336,8 @@
         "description": "Rangi oq\nUzunligi 25 \nKengligi 32",
         "price": 1200.0,
         "currency": "USD",
-        "category": "6",
-        "location": "Hfjk",
+        "category": "not",
+        "location": "Farg'ona",
         "images": [
             {
                 "id": "AgACAgIAAxkBAAIJd2b_wymmTHf7oBuNPtcf4n9SZ00pAAKp4jEb2qn4Syzhj1tJ2HayAQADAgADeQADNgQ",
@@ -355,7 +355,7 @@
         "price": 10000.0,
         "currency": "USD",
         "category": "H",
-        "location": "Fergana",
+        "location": "Farg'ona",
         "images": [],
         "created_at": "2024-10-04T12:22:58.303610",
         "id": 21
@@ -367,7 +367,7 @@
         "description": "3 oylik mushuk sotiladi",
         "price": 1000.0,
         "currency": "USD",
-        "category": "Cats",
+        "category": "Uy hayvonlari",
         "location": "Farg’ona, baqay",
         "images": [
             {
@@ -385,7 +385,7 @@
         "description": "Macbook pro 2017 yahshi holtda joyi 256gb korobka dokement cheki original zaryadkasi bor realni oladinganlar yozsin",
         "price": 2000.0,
         "currency": "USD",
-        "category": "Macbook",
+        "category": "Komplyuterlar",
         "location": "Farg'ona",
         "images": [
             {
@@ -404,7 +404,7 @@
         "price": 1000.0,
         "currency": "USD",
         "category": "Kompyuterlar 🖥",
-        "location": "Toshkent",
+        "location": "Planshetlar",
         "images": [
             {
                 "id": "AgACAgIAAxkBAAIKBGcC3-rNG2uO0w4FYkm671bYk9F_AAJe3zEbRaUZSKHNHcTb1yl3AQADAgADeQADNgQ",
@@ -421,7 +421,7 @@
         "description": "AirPods Pro yengi upakovkasi ochilmagan",
         "price": 500.0,
         "currency": "USD",
-        "category": "Aksessuarlar 🔋",
+        "category": "Aksessuarlar",
         "location": "Toshkent",
         "images": [
             {
@@ -439,7 +439,7 @@
         "description": "iPhone X zo’r holatda",
         "price": 2000.0,
         "currency": "USD",
-        "category": "Smartfonlar 📱",
+        "category": "Telefonlar",
         "location": "Farg'ona",
         "images": [
             {
@@ -457,7 +457,7 @@
         "description": "IPod touch \nHolati yangi upakofkasi ochilmagan.\n\nKorobka dokument bor ✅\n\nGarantiya bor ✅\n\nRangi pink💖\n\nPamyati 64gb🗃\n\nNarxi 200$\n\nOldiganlar yozilar✉️, tel qililar 📞",
         "price": 4000.0,
         "currency": "USD",
-        "category": "Smartfonlar 📱",
+        "category": "Audio",
         "location": "Toshkent",
         "images": [
             {
@@ -475,7 +475,7 @@
         "description": "Iphone 13 Pro Max Все цвет в нальичи",
         "price": 6000.0,
         "currency": "USD",
-        "category": "Smartfonlar 📱",
+        "category": "Telefonlar",
         "location": "Toshkent",
         "images": [
             {
@@ -494,7 +494,7 @@
         "description": "Видиокарта msi  почти новый",
         "price": 3000.0,
         "currency": "USD",
-        "category": "Kompyuterlar 🖥",
+        "category": "Kompyuterlar",
         "location": "Andijon",
         "images": [
             {
@@ -517,7 +517,7 @@
         "description": "iphone 5c в отличном состояние в комплекте есть кабел",
         "price": 2000.0,
         "currency": "UZS",
-        "category": "Smartfonlar 📱",
+        "category": "Telefonlar",
         "location": "Farg'ona",
         "images": [
             {
@@ -536,7 +536,7 @@
         "description": "ipod для коллекция есть 3 штук есть торг пишите договоримся",
         "price": 3000.0,
         "currency": "UZS",
-        "category": "Smartfonlar 📱",
+        "category": "Audio",
         "location": "Samarqand",
         "images": [
             {
@@ -555,7 +555,7 @@
         "description": "playstition 3 slim fat",
         "price": 1000.0,
         "currency": "UZS",
-        "category": "Kompyuterlar 🖥",
+        "category": "pristavkalar",
         "location": "Farg'ona",
         "images": [
             {
@@ -574,7 +574,7 @@
         "description": "Кепка новая",
         "price": 3000.0,
         "currency": "USD",
-        "category": "Aksessuarlar 🔋",
+        "category": "Kiyimlar",
         "location": "Farg'ona",
         "images": [
             {
@@ -593,7 +593,7 @@
         "description": "iphone 8 в хорошим состоянии телефон не вскрывался не ремонтировался полный комплект в том числе зарядка кабел зарядка блок и коробка и бумашки есть торг могу отправить через доставку или напишите точный адрес скину",
         "price": 80000.0,
         "currency": "USD",
-        "category": "Smartfonlar 📱",
+        "category": "Telefonlar",
         "location": "Farg'ona",
         "images": [
             {
